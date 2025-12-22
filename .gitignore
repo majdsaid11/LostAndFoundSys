@@ -1,0 +1,4 @@
+﻿build/
+nbproject/private/
+.derby/
+*.log
