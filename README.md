@@ -53,7 +53,7 @@ web/        → JSP pages (view layer / frontend)
 
 ---
 
-## 🗄 Database
+## Database
 
 - Apache Derby is used as the database
 - Database connection logic is implemented in `DBConnection.java`
@@ -72,7 +72,7 @@ This project focuses on strengthening understanding of:
 
 ---
 
-## 📌 Notes
+## Notes
 
 This is an academic and learning-focused project intended to demonstrate
 backend web development skills using Java EE technologies.
