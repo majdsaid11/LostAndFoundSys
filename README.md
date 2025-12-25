@@ -9,7 +9,7 @@ Servlets, JSP, filters, and database connectivity.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication (login & signup)
 - Role-based access (student / staff dashboards)
@@ -20,7 +20,7 @@ Servlets, JSP, filters, and database connectivity.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java (Servlets & Filters)
 - JSP (JavaServer Pages)
@@ -31,7 +31,7 @@ Servlets, JSP, filters, and database connectivity.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/        → Java servlets, filters, and backend logic  
@@ -39,7 +39,7 @@ web/        → JSP pages (view layer / frontend)
 ```
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Install **JDK** (Java 8 or Java 11 recommended)
 2. Install **NetBeans IDE**
@@ -61,7 +61,7 @@ web/        → JSP pages (view layer / frontend)
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project focuses on strengthening understanding of:
 - Java web application architecture
